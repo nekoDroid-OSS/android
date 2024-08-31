@@ -132,8 +132,8 @@ Well now that you have the nekoDroid source, you can go over to the wiki, find y
 Once you have done that and have successfully built nekoDroid you can now call your self an elite Android Builder. Enjoy!
 
 # Credits
-[LineageOS](https://lineageos.org)
-[risingOS](https://github.com/RisingTechOSS)
-[DerpFest](https://derpfest.org/)
-[Evolution-X](https://evolution-x.org)
-[PixelOS](https://pixelos.org)
+- [LineageOS](https://lineageos.org)
+- [risingOS](https://github.com/RisingTechOSS)
+- [DerpFest](https://derpfest.org/)
+- [Evolution-X](https://evolution-x.org)
+- [PixelOS](https://pixelos.org)
