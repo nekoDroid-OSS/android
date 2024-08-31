@@ -134,6 +134,7 @@ Once you have done that and have successfully built nekoDroid you can now call y
 # Credits
 - [LineageOS](https://lineageos.org)
 - [risingOS](https://github.com/RisingTechOSS)
+- [crDroid](https://crdroid.net)
 - [DerpFest](https://derpfest.org/)
 - [Evolution-X](https://evolution-x.org)
 - [PixelOS](https://pixelos.org)
