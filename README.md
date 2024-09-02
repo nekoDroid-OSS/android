@@ -18,6 +18,9 @@ If you want to build Android, your gonna need a somewhat beefy machine. nekoDroi
 - A somewhat modern CPU with 12c/24t
 - Atleast 400GB of space
 
+> [!NOTE]
+> You shouldn't be building as the `root` user. If you are, please switch to another to avoid conflicts.
+
 Anything above this will work great. nekoDroid Build Servers use 128GB RAM and a CPU with 24c/48t.
 
 ## 1. Make your directories
